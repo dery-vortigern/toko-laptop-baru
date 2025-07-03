@@ -1,16 +1,26 @@
-# Penjualan Laptop
+# Nama Proyek
 
-Sebuah aplikasi manajemen penjualan laptop yang dibuat untuk mencatat transaksi penjualan, stok barang, dan data pelanggan.
+Deskripsi singkat tentang proyek ini dan fungsinya.
 
-## 📌 Fitur Utama
-- Manajemen Data Produk (Laptop)
-- Pencatatan Transaksi Penjualan
-- Manajemen Data Pelanggan
-- Laporan Penjualan
+## 📂 Fitur
+
+- ✅ Fitur 1: [Deskripsinya]
+- ✅ Fitur 2: [Deskripsinya]
+- ✅ Fitur 3: [Deskripsinya]
 
 ## 🛠️ Teknologi yang Digunakan
-- HTML, CSS, JavaScript (Front-end)
-- PHP / Node.js / Python *(sesuaikan dengan proyek kamu)*
-- MySQL / MongoDB *(sesuaikan juga)*
 
+- Bahasa: Python / JavaScript / HTML / dll
+- Framework: Flask / React / Laravel / dll
+- Tools: Git, VSCode, dll
 
+## 🚀 Cara Menjalankan
+
+```bash
+# Clone repositori ini
+git clone https://github.com/dery-vortigern/toko-laptop-baru.git
+cd NAMA-REPO
+
+# Jalankan (jika perlu)
+npm install
+npm start
