@@ -19,7 +19,7 @@ Deskripsi singkat tentang proyek ini dan fungsinya.
 ```bash
 # Clone repositori ini
 git clone https://github.com/dery-vortigern/toko-laptop-baru.git
-cd NAMA-REPO
+cd toko-laptop-baru
 
 # Jalankan (jika perlu)
 npm install
