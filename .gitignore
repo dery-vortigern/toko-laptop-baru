@@ -3,6 +3,9 @@
 .idea/
 *.sublime-workspace
 *.sublime-project
+Makefile
+include/
+src/
 
 # Sistem Operasi
 .DS_Store
