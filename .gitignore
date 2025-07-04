@@ -1,0 +1,51 @@
+# Folder konfigurasi editor (tidak perlu diupload)
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Sistem Operasi
+.DS_Store
+Thumbs.db
+
+# File log
+*.log
+
+# File sementara / backup
+*.tmp
+*.temp
+*~
+*.bak
+
+# Folder / file build
+/build/
+/bin/
+/obj/
+/out/
+
+# Makefile artifacts
+*.o
+*.a
+*.so
+*.exe
+*.dll
+*.out
+
+# File dependensi dan konfigurasi lokal
+.env
+.env.local
+composer.lock
+package-lock.json
+
+# Jika kamu pakai PHP
+/vendor/
+
+# Jika kamu pakai Node.js
+node_modules/
+
+# Jika kamu pakai Python
+__pycache__/
+*.py[cod]
+
+# Kalau kamu pakai Git hooks lokal
+.husky/
