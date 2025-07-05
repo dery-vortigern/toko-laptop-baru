@@ -32,6 +32,8 @@ Aplikasi manajemen toko laptop untuk mengelola data produk, transaksi, dan lapor
 git clone https://github.com/dery-vortigern/toko-laptop-baru.git
 cd toko-laptop-baru
 ```
+## Anggota
+- Andi Adri (https://github.com/Andiii-create/Andiii-create.git)
 
 ## ⚙️ Konfigurasi
 
