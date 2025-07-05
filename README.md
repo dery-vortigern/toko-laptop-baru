@@ -34,6 +34,7 @@ cd toko-laptop-baru
 ```
 ## Anggota
 - Andi Adri (https://github.com/Andiii-create/Andiii-create.git)
+- Muhammad Dery Anugerah (https://github.com/dery-vortigern/dery-vortigern.git)
 
 ## ⚙️ Konfigurasi
 
